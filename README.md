@@ -14,3 +14,5 @@ Record of number of days Lake Mendota is covered by ice kept by The University o
 3. Prediction of number of ice days for winter 2022-23 with computed MLE ("beta hat") with a "y hat test" and interpretation of that prediction
 4. Prediction of year when lake no longer freezes and discussion of model limitation
 
+*sign of beta hat 1 was incorrect in this assignment, leading to some slightly off assumptions*
+
